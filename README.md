@@ -1,1 +1,2 @@
-# jQuery_calculator_apartment_renovation
+# jQuery calculator apartment renovation
+Калькулятор стоимости ремонта квартиры
